@@ -51,8 +51,8 @@ Please click to each skill, you can view detail (issues, what is that,...).
 * Angular JS, Angular JS 2
 
 ### HTML5 / Android / IOS Game Development
-* Konva JS - Canvas game
-* Phaser JS
+* [Konva JS]- Canvas game
+* [Phaser JS]
 * Cocos2dx
 
 ### Mobile Development
@@ -63,10 +63,10 @@ Please click to each skill, you can view detail (issues, what is that,...).
 ### Web Development
 * PHP
 * Joomla
-* Wordpress
+* [Wordpress]
 
 ### Hybrid Development
-* IONIC
+* IONIC, IONIC 2
 * React Native
 * Cordova
 * PhoneGap
@@ -91,16 +91,17 @@ Please click to each skill, you can view detail (issues, what is that,...).
 # Social Sharing
 
 # Blog Sharing
-* Phuotky.com
-* IT.phuotky.com
+* [Phuotky.com]
+* [IT.phuotky.com]
 
 # Business
-* oplungphukien.com
+* [oplungphukien.com]
 
 # Freelance Projects
 * nongsannhietdoi.com
 * thepraymiennam.com
 * chuyendocu.net
+* ...
 
 # Portfolio
 
@@ -111,3 +112,12 @@ Please click to each skill, you can view detail (issues, what is that,...).
 **No limit, You can break out it**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+[Konva JS]: <https://github.com/nvminhtu/KonvaJS>
+[Phaser JS]: <https://github.com/nvminhtu/LearnPhaser>
+[Wordpress]: <https://github.com/nvminhtu/Wordpress-Essentials>
+[IONIC 2]: <https://github.com/nvminhtu/ionic2>
+
+[IT.phuotky.com]: <http://it.phuotky.com/>
+[Phuotky.com]: <http://phuotky.com/>
+[oplungphukien.com]: <http://oplungphukien.com/>
