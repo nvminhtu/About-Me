@@ -66,8 +66,8 @@ Please click to each skill, you can view detail (issues, what is that,...).
 * [Wordpress]
 
 ### Hybrid Development
-* IONIC, IONIC 2
-* React Native
+* IONIC, [IONIC 2]
+* [React Native]
 * Cordova
 * PhoneGap
 * CocoonJS
@@ -114,10 +114,12 @@ Please click to each skill, you can view detail (issues, what is that,...).
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [Konva JS]: <https://github.com/nvminhtu/KonvaJS>
+[React JS]: <https://github.com/nvminhtu/ReactJS>
 [Phaser JS]: <https://github.com/nvminhtu/LearnPhaser>
+[React Native]: <https://github.com/nvminhtu/React-Native>
 [Wordpress]: <https://github.com/nvminhtu/Wordpress-Essentials>
 [IONIC 2]: <https://github.com/nvminhtu/ionic2>
-
+[React Native]: <>
 [IT.phuotky.com]: <http://it.phuotky.com/>
 [Phuotky.com]: <http://phuotky.com/>
 [oplungphukien.com]: <http://oplungphukien.com/>
