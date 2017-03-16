@@ -16,13 +16,6 @@ I don't learn everything but I will use them as my tools to develop my ideas.
 Any request or any questions please Contact me at
 Email: nvminhtu@gmail.com
 
-# Developer Skills
-Not just a skill listing, I don't list my skills.
-I only take note, and save my skills and source in Github so that I can share to everyone who need reference or solve their problem.
-
-When I practice with code, or working on projects, I store data in Github.
-
-Please click to each skill, you can view detail (issues, what is that,...).
 # Coding TimeLine:
 ### 2016
 * EmberJS (9 months)
@@ -32,6 +25,15 @@ Please click to each skill, you can view detail (issues, what is that,...).
 ### 2017 (Update to March) (experience)
 * PhaserJS (2 weeks), KonvaJS and Canvas (2 weeks)
 * Swift (1 week).
+
+
+# Developer Skills
+Not just a skill listing, I don't list my skills.
+I only take note, and save my skills and source in Github so that I can share to everyone who need reference or solve their problem.
+
+When I practice with code, or working on projects, I store data in Github.
+
+Please click to each skill, you can view detail (issues, what is that,...).
 
 ### Frontend Development
 * HTML4 / HTML5
